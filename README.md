@@ -1,0 +1,4 @@
+# short_term_stock_prediction
+Implementing the research done at:
+
+https://www.researchgate.net/publication/325786183_Predicting_Short-Term_Stock_Prices_using_Ensemble_Methods_and_Online_Data_Sources
